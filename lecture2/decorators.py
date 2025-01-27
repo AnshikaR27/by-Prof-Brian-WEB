@@ -1,0 +1,2 @@
+def announce(f):
+    pass
